@@ -47,4 +47,10 @@ Based on these visualizations, here are some recommendations:
 - **Customer Feedback**: Implementing targeted feedback initiatives to help us understand the reasons behind the dissatisfaction ratings and take corrective actions. This could help enhance PhoneNow service quality and overall customer satisfaction.
 
 ## Ad-hoc Analysis using SQL
+[SQL Project: Analyzing Call Center Performance](https://github.com/rahmaarditap/SQL-Project---Analyzing-Call-Center-Performance)
+
+
+Thank you for reading, and I welcome any feedback or questions!
+Let’s connect on LinkedIn: http://www.linkedin.com/in/rahmaardita
+
 
