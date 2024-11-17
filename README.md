@@ -11,7 +11,8 @@ The Call Center Performance Dashboard is designed to present key performance ind
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant
-- The dashboard aims to help managers understand trends, identify areas for improvement, and implement strategies for enhancing call center performance.
+
+The dashboard aims to help managers understand trends, identify areas for improvement, and implement strategies for enhancing call center performance.
 
 ## Video
 [Dashboard Demo Video on Youtube](https://youtu.be/CddsCvagpgo?si=OhMmiP0T7I16Nz7J)
